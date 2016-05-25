@@ -23,9 +23,12 @@ Felipe Prato Schabbach
 
 Davi Tavares Ferreira
 ---------------------
+Terça: 8hrs -> 10hrs
+Quarta: 8hrs -> 10hrs
+Quinta: 8hrs -> 12hrs
 
 Wendel da Rocha Bartz
-
+---------------------
 Segunda: 10Hrs - 12hrs
 
 Terça: 9hrs - 10hrs

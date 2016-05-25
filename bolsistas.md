@@ -17,8 +17,7 @@ Quarta = 8h - 12h
 Quinta = 10h - 12h
          14h - 18h
          
-Sexta = 8h - 12h
-         14h - 18h         
+Sexta = 8h - 12h 14h - 18h         
 ------------------
 
 Marcos Goulart de Oliveira

@@ -30,6 +30,11 @@ Felipe Prato Schabbach
 
 Davi Tavares Ferreira
 ---------------------
+Terça: 8h -> 10h
+
+Quarta: 8h -> 10h
+
+Quinta: 8h -> 12h
 
 Wendel da Rocha Bartz
 ---------------------

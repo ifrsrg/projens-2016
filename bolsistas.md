@@ -25,14 +25,10 @@ Davi Tavares Ferreira
 ---------------------
 
 Wendel da Rocha Bartz
-
-Segunda: 10Hrs - 12hrs
+---------------------
 
 Terça: 9hrs - 10hrs
 
 Quarta: 8hrs - 12hrs
 
 Quinta: 8hrs - 11hrs
-
-Sexta: 8hrs - 12hrs
----------------------

@@ -18,6 +18,13 @@ Marcos Goulart de Oliveira
 Eduardo da Silva Amorim
 -----------------------
 
+Segunda: 8hrs - 10hrs
+
+Quarta: 8hrs - 12hrs
+
+Sex: 8hrs - 10hrs
+
+
 Felipe Prato Schabbach
 ----------------
 

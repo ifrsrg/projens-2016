@@ -3,6 +3,9 @@ Dias, Horários e Alojamento dos Bolsistas
 
 Laura Telles Gomes
 ------------------
+Segunda: 8h as 12h
+Quinta: 8h as 10h
+Sexta: 8h as 10h
 
 Andrew Mota Bastos
 ------------------

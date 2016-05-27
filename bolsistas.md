@@ -13,7 +13,9 @@ Quinta: 10h as 12h
 Marcos Goulart de Oliveira
 --------------------------
 Terça: 18:10hrs as 20:10hrs
+
 Quarta: 8hr as 12hrs
+
 Quinta: 9hr as 11 hrs
 
 Eduardo da Silva Amorim

@@ -36,6 +36,7 @@ Objetivo atual: construção de aplicativo para uso interno da prefeitura.
 
 INFO Projens/Geoprocessamento
 ------------------------------
+Hospedado em <https://github.com/ifrsrg/projens-geo>
 Projeto em parceria com o curso Técnico em Geoprocessamento
 Bolsista/Desenvolvedora: Laura Gomes
 Owner: Jefferson (Geo)

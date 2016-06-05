@@ -24,9 +24,9 @@ Quinta: 9hr as 11 hrs
 Eduardo da Silva Amorim
 -----------------------
 
-Segunda: 8hrs - 10hrs
-
 Quarta: 8hrs - 12hrs
+
+Quinta: 8hrs - 10hrs
 
 Sexta: 8hrs - 10hrs
 

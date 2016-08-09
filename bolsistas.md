@@ -21,14 +21,14 @@ Quarta: 8hr as 12hrs
 
 Quinta: 9hr as 11 hrs
 
-Eduardo da Silva Amorim
+Bruno Ribeiro Ribeiro
 -----------------------
 
-Quarta: 8hrs - 12hrs
+Quarta: 8hrs - 11hrs
 
-Quinta: 8hrs - 10hrs
+Quinta: 8hrs - 11hrs
 
-Sexta: 8hrs - 10hrs
+Casa: 2hrs
 
 
 Felipe Prato Schabbach

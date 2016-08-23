@@ -24,9 +24,11 @@ Quinta: 9hr as 11 hrs
 Bruno Ribeiro Ribeiro
 -----------------------
 
-Quarta: 8hrs - 11hrs
+Terça: 9hrs - 10hrs | 18hrs - 20hrs
 
-Quinta: 8hrs - 11hrs
+Quarta: 18hrs - 20hrs
+
+Quinta: 10hrs - 11 hrs
 
 Casa: 2hrs
 
